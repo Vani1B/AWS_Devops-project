@@ -56,6 +56,63 @@ Edit inbound security group to the access Application
 
 ![image](https://github.com/user-attachments/assets/99e98266-c79c-4545-a90c-897e3282cdee)
 
+Created S3 Bucket and DyanamoDB using terraform code for statelocking
+
+![image](https://github.com/user-attachments/assets/a49c4f89-4f1e-437e-8025-89b03ff349da)
+
+
+![image](https://github.com/user-attachments/assets/c5fcb304-e9c9-48c1-9772-a30d215dbdff)
+
+
+![image](https://github.com/user-attachments/assets/b79e1ea1-f638-4242-9ea7-a1082d496a77)
+
+Create VPC and EKS Cluster using terraform code
+
+![image](https://github.com/user-attachments/assets/3b70f568-9ecf-42d0-805b-db1b1e198867)
+
+![image](https://github.com/user-attachments/assets/c8fe5067-ce45-490c-97cf-adb1edbcc072)
+
+![image](https://github.com/user-attachments/assets/e684c981-9fdd-4cf3-b087-6b8bcec0b2a0)
+
+![image](https://github.com/user-attachments/assets/6eca0c36-553d-4e77-912c-8fee95a155f7)
+
+![image](https://github.com/user-attachments/assets/9e0a989b-0e91-4a32-ad5d-43a5328776c4)
+
+![image](https://github.com/user-attachments/assets/7f25a9df-a269-4dda-8eb7-c5148498b07a)
+
+EKS cluster created
+
+![image](https://github.com/user-attachments/assets/9758e680-c713-422d-b465-d3bf4588e5bd)
+
+![image](https://github.com/user-attachments/assets/eee0c06c-fda6-4f5c-b4be-4905a2709ba7)
+
+
+![image](https://github.com/user-attachments/assets/35c41c7d-317d-46e2-89af-bc26eb46623b)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
