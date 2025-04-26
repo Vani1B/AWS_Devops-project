@@ -93,10 +93,6 @@ Containerization of Admicroservice (Java)
 ![image](https://github.com/user-attachments/assets/d7406f86-e10a-44eb-8016-9713729dc1a2)
 
 
-
-![image](https://github.com/user-attachments/assets/9831ced9-fa49-4074-8f77-66f7ec6ec7ec)
-
-
 ![image](https://github.com/user-attachments/assets/0859fc7d-73fd-4526-9007-458569ea916c)
 
 
