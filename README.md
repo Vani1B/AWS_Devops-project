@@ -155,6 +155,33 @@ Connect kubectl with eks cluster
 
 ![image](https://github.com/user-attachments/assets/9cc7e184-aa17-4e2c-b151-d57b6408b8c1)
 
+Deploying the project on kubernetes
+
+![image](https://github.com/user-attachments/assets/4c2609aa-143d-4839-a581-6fa1820bcd86)
+
+
+![image](https://github.com/user-attachments/assets/1776d0e5-b02a-4f78-80ac-9a2e9c59abc9)
+
+Deploying ALB ingress controller
+
+![image](https://github.com/user-attachments/assets/6ba4c0bf-321c-4269-a69d-7950ca0db79e)
+
+
+![image](https://github.com/user-attachments/assets/06500fb6-0d08-4e56-9201-c5582ea73b21)
+
+
+![image](https://github.com/user-attachments/assets/247b646a-aac6-40b8-9c74-071f4e9a3d04)
+
+![image](https://github.com/user-attachments/assets/3b29c091-fdd2-4f1d-adb0-983dc1f98f0e)
+
+
+
+
+
+
+
+
+
 
 
 
