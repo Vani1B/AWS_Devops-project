@@ -67,6 +67,46 @@ Edit inbound security group to the access Application
 
 ![image](https://github.com/user-attachments/assets/99e98266-c79c-4545-a90c-897e3282cdee)
 
+
+Containerization of the project
+
+Containerization of first micorservice product-catalog (Golang)
+
+
+![image](https://github.com/user-attachments/assets/74c995ff-aa69-4124-b180-e7e16c25b1c3)
+
+
+![image](https://github.com/user-attachments/assets/8bc7dd92-acc6-422e-bfd2-4e0ce66cda6c)
+
+
+![image](https://github.com/user-attachments/assets/0859fc7d-73fd-4526-9007-458569ea916c)
+
+
+Containerization of Admicroservice (Java)
+
+![image](https://github.com/user-attachments/assets/8664eec9-df4b-492b-ad21-e034b2c58909)
+
+
+![image](https://github.com/user-attachments/assets/ebf85e99-06e5-438b-ad11-bffc4ac6ca7a)
+
+
+![image](https://github.com/user-attachments/assets/d7406f86-e10a-44eb-8016-9713729dc1a2)
+
+
+
+![image](https://github.com/user-attachments/assets/9831ced9-fa49-4074-8f77-66f7ec6ec7ec)
+
+
+![image](https://github.com/user-attachments/assets/772302f8-b033-49ce-b5d5-cba606716ff6)
+
+
+
+Containerization of Recommendations microservice (python)
+
+
+![image](https://github.com/user-attachments/assets/27699fc1-27a3-4a55-87d4-bab8595e38ae)
+
+
 Created S3 Bucket and DyanamoDB using terraform code for statelocking
 
 ![image](https://github.com/user-attachments/assets/a49c4f89-4f1e-437e-8025-89b03ff349da)
