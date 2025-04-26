@@ -1,6 +1,14 @@
 # AWS_Devops-project
 Realtime Demo project using AWS
 
+Architecture of OpenTelemetry Demo E-commerce project. It's a multi microservice Architecture. Each service developed in different programming language.
+
+![image](https://github.com/user-attachments/assets/78750c5e-2f94-4bc7-9228-2c7115d8ab35)
+
+
+![image](https://github.com/user-attachments/assets/5bf98ea6-0a79-4025-891e-ddbed5591d45)
+
+
 Create IAM user with required permissions
 
 ![image](https://github.com/user-attachments/assets/8492fe33-9000-4fd1-9285-ad3542c33897)
