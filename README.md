@@ -174,7 +174,8 @@ Deploying ALB ingress controller
 
 ![image](https://github.com/user-attachments/assets/3b29c091-fdd2-4f1d-adb0-983dc1f98f0e)
 
-![image](https://github.com/user-attachments/assets/267ebb7b-ce7b-42a2-a46c-ac348623bb1d)
+![image](https://github.com/user-attachments/assets/bde8b77d-201e-4155-bcc6-75b94b077ba6)
+
 
 
 
