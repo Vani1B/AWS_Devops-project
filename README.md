@@ -76,10 +76,10 @@ Containerization of first micorservice product-catalog (Golang)
 ![image](https://github.com/user-attachments/assets/74c995ff-aa69-4124-b180-e7e16c25b1c3)
 
 
-![image](https://github.com/user-attachments/assets/8bc7dd92-acc6-422e-bfd2-4e0ce66cda6c)
+![image](https://github.com/user-attachments/assets/772302f8-b033-49ce-b5d5-cba606716ff6)
 
 
-![image](https://github.com/user-attachments/assets/0859fc7d-73fd-4526-9007-458569ea916c)
+
 
 
 Containerization of Admicroservice (Java)
@@ -97,7 +97,10 @@ Containerization of Admicroservice (Java)
 ![image](https://github.com/user-attachments/assets/9831ced9-fa49-4074-8f77-66f7ec6ec7ec)
 
 
-![image](https://github.com/user-attachments/assets/772302f8-b033-49ce-b5d5-cba606716ff6)
+![image](https://github.com/user-attachments/assets/0859fc7d-73fd-4526-9007-458569ea916c)
+
+
+![image](https://github.com/user-attachments/assets/8bc7dd92-acc6-422e-bfd2-4e0ce66cda6c)
 
 
 
