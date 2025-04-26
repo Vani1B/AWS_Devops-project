@@ -146,6 +146,19 @@ EKS cluster created
 
 ![image](https://github.com/user-attachments/assets/35c41c7d-317d-46e2-89af-bc26eb46623b)
 
+Connect kubectl with eks cluster
+
+![image](https://github.com/user-attachments/assets/3a216fa4-e04b-455e-9b21-3e74238a1ef3)
+
+
+![image](https://github.com/user-attachments/assets/f10f8abd-d3f4-44af-9801-664716f1ff65)
+
+![image](https://github.com/user-attachments/assets/9cc7e184-aa17-4e2c-b151-d57b6408b8c1)
+
+
+
+
+
 
 
 
