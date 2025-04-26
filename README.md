@@ -105,6 +105,13 @@ Containerization of Recommendations microservice (python)
 
 ![image](https://github.com/user-attachments/assets/27699fc1-27a3-4a55-87d4-bab8595e38ae)
 
+Push Container images to the Registry
+
+![image](https://github.com/user-attachments/assets/ea2bca82-e98b-45c1-b614-7c93fdab8f2b)
+
+
+![image](https://github.com/user-attachments/assets/70ef04dd-8a8f-4126-a0b4-febd279c0988)
+
 
 Created S3 Bucket and DyanamoDB using terraform code for statelocking
 
