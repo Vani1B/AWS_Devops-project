@@ -9,6 +9,9 @@ Architecture of OpenTelemetry Demo E-commerce project. It's a multi microservice
 ![image](https://github.com/user-attachments/assets/5bf98ea6-0a79-4025-891e-ddbed5591d45)
 
 
+Installations and Pre-requisties : Create IAM user, Create Ec2 instance and install Docker, Terraform and Kubectl
+
+
 Create IAM user with required permissions
 
 ![image](https://github.com/user-attachments/assets/8492fe33-9000-4fd1-9285-ad3542c33897)
